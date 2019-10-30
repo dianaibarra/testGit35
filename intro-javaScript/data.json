@@ -1,0 +1,14 @@
+{
+    "nombre" : "ricardo",
+    "direccion" :  "azcapo",
+    "telefono" : "5515114888",
+    "email" : "ricardo.dev@dadsasdas",
+    "edad" : "21",
+    "trabajo" : ["dev :f", "developer","mami"],
+    "mascolas" : {
+        "perrito" : "Salchicha",
+        "gatito" : "siames",
+        "pez" : "dorado",
+    }
+
+}
